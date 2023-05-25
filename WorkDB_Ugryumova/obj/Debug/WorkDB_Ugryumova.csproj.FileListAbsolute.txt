@@ -1,0 +1,13 @@
+C:\Users\325L-12\Documents\пр\Угрюмова\учебная практика\WorkDB_Ugryumova\bin\Debug\WorkDB_Ugryumova.exe.config
+C:\Users\325L-12\Documents\пр\Угрюмова\учебная практика\WorkDB_Ugryumova\bin\Debug\WorkDB_Ugryumova.exe
+C:\Users\325L-12\Documents\пр\Угрюмова\учебная практика\WorkDB_Ugryumova\bin\Debug\WorkDB_Ugryumova.pdb
+C:\Users\325L-12\Documents\пр\Угрюмова\учебная практика\WorkDB_Ugryumova\obj\Debug\WorkDB_Ugryumova.csproj.AssemblyReference.cache
+C:\Users\325L-12\Documents\пр\Угрюмова\учебная практика\WorkDB_Ugryumova\obj\Debug\WorkDB_Ugryumova.csproj.SuggestedBindingRedirects.cache
+C:\Users\325L-12\Documents\пр\Угрюмова\учебная практика\WorkDB_Ugryumova\obj\Debug\WorkDB_Ugryumova.Form1.resources
+C:\Users\325L-12\Documents\пр\Угрюмова\учебная практика\WorkDB_Ugryumova\obj\Debug\WorkDB_Ugryumova.Properties.Resources.resources
+C:\Users\325L-12\Documents\пр\Угрюмова\учебная практика\WorkDB_Ugryumova\obj\Debug\WorkDB_Ugryumova.csproj.GenerateResource.cache
+C:\Users\325L-12\Documents\пр\Угрюмова\учебная практика\WorkDB_Ugryumova\obj\Debug\WorkDB_Ugryumova.csproj.CoreCompileInputs.cache
+C:\Users\325L-12\Documents\пр\Угрюмова\учебная практика\WorkDB_Ugryumova\obj\Debug\WorkDB_Ugryumova.exe
+C:\Users\325L-12\Documents\пр\Угрюмова\учебная практика\WorkDB_Ugryumova\obj\Debug\WorkDB_Ugryumova.pdb
+C:\Users\325L-12\Documents\пр\Угрюмова\учебная практика\WorkDB_Ugryumova\obj\Debug\WorkDB_Ugryumova.Admin.resources
+C:\Users\325L-12\Documents\пр\Угрюмова\учебная практика\WorkDB_Ugryumova\obj\Debug\WorkDB_Ugryumova.User.resources
